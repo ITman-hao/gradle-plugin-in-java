@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-plugin-in-java.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-plugin-in-java.iml" group="gradle-plugin-in-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-plugin/greeting-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-plugin/greeting-plugin.iml" group="gradle-plugin-in-java/greeting-plugin" />
+    </modules>
+  </component>
+</project>
